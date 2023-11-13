@@ -1,0 +1,99 @@
+body{
+    background-image: url(./assets/beans.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    
+}
+
+.Menu{
+    background-color: rgb(222,184,135);
+    margin: 28px auto;
+    /* height: 97.9vh; */
+    width: 32.7vw;
+    padding: 10px 20px;
+
+}
+
+/* Header */
+
+.head{
+    text-align: center;
+}
+
+.cafename{
+    font-family: Impact, serif;
+    font-size: 40px;
+    margin-top: 10px;
+}
+.establish{
+    font-size: medium;
+    font-style: italic;
+    margin-top: -11px;
+}
+
+hr{
+    border: 2.4px solid brown;
+}
+
+
+/* main */
+
+h2{
+    text-align: center;
+    font-family: Impact, serif;
+    font-size: 30px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
+
+li{
+    list-style: none;
+    margin-top: 10px;
+}
+
+.items{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    margin-top: -24px;
+}
+
+.coffeename , .piename{
+    margin-left: -40px;
+}
+
+.desserts{
+    margin-top: 12px;
+}
+
+.desertitems{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    margin-top: -23px;
+}
+
+/* footer */
+.foot{
+    margin-top: 12px;
+    margin-bottom: 12.8px;
+}
+
+.footer{
+    text-align: center;
+    font-size: 14px;
+}
+
+.a{
+    color: black;
+}
+
+.a:hover{
+    color: red;
+}
+
